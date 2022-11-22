@@ -29,7 +29,6 @@ namespace Parcial_y_TP
         {
             InitializeComponent();
             this.admin = administrador as Admin;
-
         }
 
         private void Administrador_Load(object sender, EventArgs e)
