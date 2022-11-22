@@ -34,7 +34,9 @@ namespace Parcial_y_TP
             {
                 if (Admin.ValidarUsuario(txtUsuario.Text))
                 {
-                    Admin.CreacionDeNuevoUsuario(txtNombreYApellido.Text, txtUsuario.Text, txtContraseña.Text, tipoUsuario);
+                    Task tarea = Task.Run(() => Admin.CreacionDeNuevoUsuario(txtNombreYApellido.Text, txtUsuario.Text, txtContraseña.Text, tipoUsuario));
+                    tarea.Wait();
+
                     DialogResult = DialogResult.OK;
                 }
                 else

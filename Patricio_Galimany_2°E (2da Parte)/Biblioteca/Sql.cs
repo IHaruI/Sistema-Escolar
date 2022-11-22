@@ -54,7 +54,7 @@ namespace Biblioteca
                     {
                         //list.Add(usuario, new Admin(nombre, usuario, contrasenia, TipoUsuario.Admin));
 
-                        AsisgnandoUsuarios<Admin> admin = new AsisgnandoUsuarios<Admin>();
+                        AlmacenDeTipos<Admin> admin = new AlmacenDeTipos<Admin>();
                         admin.agregar(new Admin(nombre, usuario, contrasenia, TipoUsuario.Admin));
                         list.Add(usuario, admin.getEmpleado());
                     }
@@ -62,7 +62,7 @@ namespace Biblioteca
                     {
                         //list.Add(usuario, new Profesor(nombre, usuario, contrasenia, TipoUsuario.Profesor));
 
-                        AsisgnandoUsuarios<Profesor> profesor = new AsisgnandoUsuarios<Profesor>();
+                        AlmacenDeTipos<Profesor> profesor = new AlmacenDeTipos<Profesor>();
                         profesor.agregar(new Profesor(nombre, usuario, contrasenia, TipoUsuario.Profesor));
                         list.Add(usuario, profesor.getEmpleado());
                     }
@@ -70,7 +70,7 @@ namespace Biblioteca
                     {
                         //list.Add(usuario, new Alumno(nombre, usuario, contrasenia, TipoUsuario.Alumno));
 
-                        AsisgnandoUsuarios<Alumno> alumno = new AsisgnandoUsuarios<Alumno>();
+                        AlmacenDeTipos<Alumno> alumno = new AlmacenDeTipos<Alumno>();
                         alumno.agregar(new Alumno(nombre, usuario, contrasenia, TipoUsuario.Alumno));
                         list.Add(usuario, alumno.getEmpleado());
                     }

@@ -21,7 +21,6 @@ namespace Parcial_y_TP
         private string? cuatrimestre;
         private string? correlativa;
         private string? materiaCorrelativa;
-        List<Materias> materia = new List<Materias>();
 
         public AdicionarMateria()
         {
@@ -50,9 +49,7 @@ namespace Parcial_y_TP
                 }
             }
 
-            materia = Sql.LeerMaterias();
-
-            foreach (var item in materia)
+            foreach (var item in Sql.LeerMaterias())
             {
                 if (!cmbMaterias.Items.Contains(item.Nombre))
                 {

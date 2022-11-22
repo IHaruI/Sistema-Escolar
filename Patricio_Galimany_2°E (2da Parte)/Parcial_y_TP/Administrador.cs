@@ -155,8 +155,10 @@ namespace Parcial_y_TP
             if (saveFileDialog.ShowDialog() == DialogResult.OK)
             {
                 string path = saveFileDialog.FileName;
-                Admin.ExportarMateria(lista2, path);
+                Task tarea = Task.Run(() => Admin.ExportarMateria(lista2, path));
+
                 MessageBox.Show("Se ha exportado correctamente.", "¡Atención!", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                tarea.Wait();
             }
         }
     }
