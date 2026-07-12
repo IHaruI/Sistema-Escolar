@@ -1,0 +1,72 @@
+C:\Users\patri\source\repos\Patricio_Galimany_2°E\Biblioteca\bin\Debug\net5.0\Biblioteca.deps.json
+C:\Users\patri\source\repos\Patricio_Galimany_2°E\Biblioteca\bin\Debug\net5.0\Biblioteca.dll
+C:\Users\patri\source\repos\Patricio_Galimany_2°E\Biblioteca\bin\Debug\net5.0\Biblioteca.pdb
+C:\Users\patri\source\repos\Patricio_Galimany_2°E\Biblioteca\obj\Debug\net5.0\Biblioteca.csproj.AssemblyReference.cache
+C:\Users\patri\source\repos\Patricio_Galimany_2°E\Biblioteca\obj\Debug\net5.0\Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\patri\source\repos\Patricio_Galimany_2°E\Biblioteca\obj\Debug\net5.0\Biblioteca.AssemblyInfoInputs.cache
+C:\Users\patri\source\repos\Patricio_Galimany_2°E\Biblioteca\obj\Debug\net5.0\Biblioteca.AssemblyInfo.cs
+C:\Users\patri\source\repos\Patricio_Galimany_2°E\Biblioteca\obj\Debug\net5.0\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\patri\source\repos\Patricio_Galimany_2°E\Biblioteca\obj\Debug\net5.0\Biblioteca.dll
+C:\Users\patri\source\repos\Patricio_Galimany_2°E\Biblioteca\obj\Debug\net5.0\refint\Biblioteca.dll
+C:\Users\patri\source\repos\Patricio_Galimany_2°E\Biblioteca\obj\Debug\net5.0\Biblioteca.pdb
+C:\Users\patri\source\repos\Patricio_Galimany_2°E\Biblioteca\obj\Debug\net5.0\ref\Biblioteca.dll
+C:\Users\patri\Desktop\Patricio_Galimany_2°E\Biblioteca\bin\Debug\net5.0\Biblioteca.deps.json
+C:\Users\patri\Desktop\Patricio_Galimany_2°E\Biblioteca\bin\Debug\net5.0\Biblioteca.dll
+C:\Users\patri\Desktop\Patricio_Galimany_2°E\Biblioteca\bin\Debug\net5.0\Biblioteca.pdb
+C:\Users\patri\Desktop\Patricio_Galimany_2°E\Biblioteca\obj\Debug\net5.0\Biblioteca.csproj.AssemblyReference.cache
+C:\Users\patri\Desktop\Patricio_Galimany_2°E\Biblioteca\obj\Debug\net5.0\Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\patri\Desktop\Patricio_Galimany_2°E\Biblioteca\obj\Debug\net5.0\Biblioteca.AssemblyInfoInputs.cache
+C:\Users\patri\Desktop\Patricio_Galimany_2°E\Biblioteca\obj\Debug\net5.0\Biblioteca.AssemblyInfo.cs
+C:\Users\patri\Desktop\Patricio_Galimany_2°E\Biblioteca\obj\Debug\net5.0\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\patri\Desktop\Patricio_Galimany_2°E\Biblioteca\obj\Debug\net5.0\Biblioteca.dll
+C:\Users\patri\Desktop\Patricio_Galimany_2°E\Biblioteca\obj\Debug\net5.0\refint\Biblioteca.dll
+C:\Users\patri\Desktop\Patricio_Galimany_2°E\Biblioteca\obj\Debug\net5.0\Biblioteca.pdb
+C:\Users\patri\Desktop\Patricio_Galimany_2°E\Biblioteca\obj\Debug\net5.0\ref\Biblioteca.dll
+C:\Users\alumno\Desktop\Patricio_Galimany_2°E\Biblioteca\bin\Debug\net5.0\Biblioteca.deps.json
+C:\Users\alumno\Desktop\Patricio_Galimany_2°E\Biblioteca\bin\Debug\net5.0\Biblioteca.dll
+C:\Users\alumno\Desktop\Patricio_Galimany_2°E\Biblioteca\bin\Debug\net5.0\Biblioteca.pdb
+C:\Users\alumno\Desktop\Patricio_Galimany_2°E\Biblioteca\obj\Debug\net5.0\Biblioteca.csproj.AssemblyReference.cache
+C:\Users\alumno\Desktop\Patricio_Galimany_2°E\Biblioteca\obj\Debug\net5.0\Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alumno\Desktop\Patricio_Galimany_2°E\Biblioteca\obj\Debug\net5.0\Biblioteca.AssemblyInfoInputs.cache
+C:\Users\alumno\Desktop\Patricio_Galimany_2°E\Biblioteca\obj\Debug\net5.0\Biblioteca.AssemblyInfo.cs
+C:\Users\alumno\Desktop\Patricio_Galimany_2°E\Biblioteca\obj\Debug\net5.0\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Desktop\Patricio_Galimany_2°E\Biblioteca\obj\Debug\net5.0\Biblioteca.dll
+C:\Users\alumno\Desktop\Patricio_Galimany_2°E\Biblioteca\obj\Debug\net5.0\refint\Biblioteca.dll
+C:\Users\alumno\Desktop\Patricio_Galimany_2°E\Biblioteca\obj\Debug\net5.0\Biblioteca.pdb
+C:\Users\alumno\Desktop\Patricio_Galimany_2°E\Biblioteca\obj\Debug\net5.0\ref\Biblioteca.dll
+C:\Users\patri\Downloads\Primer_Parcial_y_TP-master\Patricio_Galimany_2°E\Biblioteca\bin\Debug\net5.0\Biblioteca.deps.json
+C:\Users\patri\Downloads\Primer_Parcial_y_TP-master\Patricio_Galimany_2°E\Biblioteca\bin\Debug\net5.0\Biblioteca.dll
+C:\Users\patri\Downloads\Primer_Parcial_y_TP-master\Patricio_Galimany_2°E\Biblioteca\bin\Debug\net5.0\Biblioteca.pdb
+C:\Users\patri\Downloads\Primer_Parcial_y_TP-master\Patricio_Galimany_2°E\Biblioteca\obj\Debug\net5.0\Biblioteca.csproj.AssemblyReference.cache
+C:\Users\patri\Downloads\Primer_Parcial_y_TP-master\Patricio_Galimany_2°E\Biblioteca\obj\Debug\net5.0\Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\patri\Downloads\Primer_Parcial_y_TP-master\Patricio_Galimany_2°E\Biblioteca\obj\Debug\net5.0\Biblioteca.AssemblyInfoInputs.cache
+C:\Users\patri\Downloads\Primer_Parcial_y_TP-master\Patricio_Galimany_2°E\Biblioteca\obj\Debug\net5.0\Biblioteca.AssemblyInfo.cs
+C:\Users\patri\Downloads\Primer_Parcial_y_TP-master\Patricio_Galimany_2°E\Biblioteca\obj\Debug\net5.0\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\patri\Downloads\Primer_Parcial_y_TP-master\Patricio_Galimany_2°E\Biblioteca\obj\Debug\net5.0\Biblioteca.dll
+C:\Users\patri\Downloads\Primer_Parcial_y_TP-master\Patricio_Galimany_2°E\Biblioteca\obj\Debug\net5.0\refint\Biblioteca.dll
+C:\Users\patri\Downloads\Primer_Parcial_y_TP-master\Patricio_Galimany_2°E\Biblioteca\obj\Debug\net5.0\Biblioteca.pdb
+C:\Users\patri\Downloads\Primer_Parcial_y_TP-master\Patricio_Galimany_2°E\Biblioteca\obj\Debug\net5.0\ref\Biblioteca.dll
+C:\Users\patri\Desktop\Segundo_Parcial_y_TP-main\Patricio_Galimany_2°E (2da Parte)\Biblioteca\bin\Debug\net5.0\Biblioteca.deps.json
+C:\Users\patri\Desktop\Segundo_Parcial_y_TP-main\Patricio_Galimany_2°E (2da Parte)\Biblioteca\bin\Debug\net5.0\Biblioteca.dll
+C:\Users\patri\Desktop\Segundo_Parcial_y_TP-main\Patricio_Galimany_2°E (2da Parte)\Biblioteca\bin\Debug\net5.0\Biblioteca.pdb
+C:\Users\patri\Desktop\Segundo_Parcial_y_TP-main\Patricio_Galimany_2°E (2da Parte)\Biblioteca\obj\Debug\net5.0\Biblioteca.csproj.AssemblyReference.cache
+C:\Users\patri\Desktop\Segundo_Parcial_y_TP-main\Patricio_Galimany_2°E (2da Parte)\Biblioteca\obj\Debug\net5.0\Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\patri\Desktop\Segundo_Parcial_y_TP-main\Patricio_Galimany_2°E (2da Parte)\Biblioteca\obj\Debug\net5.0\Biblioteca.AssemblyInfoInputs.cache
+C:\Users\patri\Desktop\Segundo_Parcial_y_TP-main\Patricio_Galimany_2°E (2da Parte)\Biblioteca\obj\Debug\net5.0\Biblioteca.AssemblyInfo.cs
+C:\Users\patri\Desktop\Segundo_Parcial_y_TP-main\Patricio_Galimany_2°E (2da Parte)\Biblioteca\obj\Debug\net5.0\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\patri\Desktop\Segundo_Parcial_y_TP-main\Patricio_Galimany_2°E (2da Parte)\Biblioteca\obj\Debug\net5.0\Biblioteca.dll
+C:\Users\patri\Desktop\Segundo_Parcial_y_TP-main\Patricio_Galimany_2°E (2da Parte)\Biblioteca\obj\Debug\net5.0\refint\Biblioteca.dll
+C:\Users\patri\Desktop\Segundo_Parcial_y_TP-main\Patricio_Galimany_2°E (2da Parte)\Biblioteca\obj\Debug\net5.0\Biblioteca.pdb
+C:\Users\patri\Desktop\Segundo_Parcial_y_TP-main\Patricio_Galimany_2°E (2da Parte)\Biblioteca\obj\Debug\net5.0\ref\Biblioteca.dll
+C:\Users\patri\Desktop\Sistema-Escolar\Sistema-Escolar\Biblioteca\bin\Debug\net5.0\Biblioteca.deps.json
+C:\Users\patri\Desktop\Sistema-Escolar\Sistema-Escolar\Biblioteca\bin\Debug\net5.0\Biblioteca.dll
+C:\Users\patri\Desktop\Sistema-Escolar\Sistema-Escolar\Biblioteca\bin\Debug\net5.0\Biblioteca.pdb
+C:\Users\patri\Desktop\Sistema-Escolar\Sistema-Escolar\Biblioteca\obj\Debug\net5.0\Biblioteca.csproj.AssemblyReference.cache
+C:\Users\patri\Desktop\Sistema-Escolar\Sistema-Escolar\Biblioteca\obj\Debug\net5.0\Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\patri\Desktop\Sistema-Escolar\Sistema-Escolar\Biblioteca\obj\Debug\net5.0\Biblioteca.AssemblyInfoInputs.cache
+C:\Users\patri\Desktop\Sistema-Escolar\Sistema-Escolar\Biblioteca\obj\Debug\net5.0\Biblioteca.AssemblyInfo.cs
+C:\Users\patri\Desktop\Sistema-Escolar\Sistema-Escolar\Biblioteca\obj\Debug\net5.0\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\patri\Desktop\Sistema-Escolar\Sistema-Escolar\Biblioteca\obj\Debug\net5.0\Biblioteca.dll
+C:\Users\patri\Desktop\Sistema-Escolar\Sistema-Escolar\Biblioteca\obj\Debug\net5.0\refint\Biblioteca.dll
+C:\Users\patri\Desktop\Sistema-Escolar\Sistema-Escolar\Biblioteca\obj\Debug\net5.0\Biblioteca.pdb
+C:\Users\patri\Desktop\Sistema-Escolar\Sistema-Escolar\Biblioteca\obj\Debug\net5.0\ref\Biblioteca.dll

@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Parcial_y_TP", "Parcial_y_TP\Parcial_y_TP.csproj", "{3B90FD5A-BF48-4A28-8858-870480748A54}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Biblioteca", "Biblioteca\Biblioteca.csproj", "{575A8210-27DD-4DDD-82BC-013A8EF7454B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{AFBEF8C4-F34B-491C-8FB5-EAECE54E72E5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3B90FD5A-BF48-4A28-8858-870480748A54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B90FD5A-BF48-4A28-8858-870480748A54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B90FD5A-BF48-4A28-8858-870480748A54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B90FD5A-BF48-4A28-8858-870480748A54}.Release|Any CPU.Build.0 = Release|Any CPU
+		{575A8210-27DD-4DDD-82BC-013A8EF7454B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{575A8210-27DD-4DDD-82BC-013A8EF7454B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{575A8210-27DD-4DDD-82BC-013A8EF7454B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{575A8210-27DD-4DDD-82BC-013A8EF7454B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFBEF8C4-F34B-491C-8FB5-EAECE54E72E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFBEF8C4-F34B-491C-8FB5-EAECE54E72E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFBEF8C4-F34B-491C-8FB5-EAECE54E72E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFBEF8C4-F34B-491C-8FB5-EAECE54E72E5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {39CD028B-6061-440F-BBFD-78EAA8FB82A7}
+	EndGlobalSection
+EndGlobal
