@@ -2,7 +2,7 @@
 
 Sistema de gestión escolar desarrollado en **C#**, **Windows Forms** y **SQL Server** como proyecto universitario.
 
-El objetivo del sistema es facilitar la administración de una institución educativa mediante distintos perfiles de usuario, permitiendo gestionar materias, profesores, alumnos, calificaciones y estadísticas desde una única aplicación.
+El sistema permite administrar materias, profesores, alumnos, calificaciones y estadísticas mediante distintos tipos de usuarios desde una única aplicación.
 
 ---
 
@@ -18,10 +18,23 @@ El objetivo del sistema es facilitar la administración de una institución educ
 
 ---
 
+# 🧠 Conceptos aplicados
+
+Durante el desarrollo del proyecto se implementaron los siguientes conceptos:
+
+- Programación Orientada a Objetos (POO)
+- Herencia
+- Interfaces
+- Enumeraciones (Enum)
+- Manejo de excepciones
+- Pruebas unitarias (MSTest)
+
+---
+
 # 🚀 Funcionalidades principales
 
 - 🔐 Inicio de sesión con distintos tipos de usuarios.
-- 👨‍💼 Administración de materias.
+- 📚 Administración de materias.
 - 👨‍🏫 Gestión de profesores.
 - 🎓 Gestión de alumnos.
 - 📝 Registro de exámenes y calificaciones.
@@ -124,7 +137,7 @@ Desde esta ventana puede:
 - Registrar la nota del segundo parcial.
 - Actualizar automáticamente el promedio del alumno.
 
-La lista superior muestra los exámenes creados durante la sesión para facilitar el seguimiento de las evaluaciones.
+La lista superior muestra los exámenes creados durante la sesión con su fecha y nombre.
 
 ![Profesor](imagenes/profesor.png)
 
@@ -178,7 +191,7 @@ Entre los datos persistidos se encuentran:
 - Inscripciones
 - Calificaciones
 
-El repositorio incluye el script SQL necesario para crear la base de datos.
+El repositorio incluye un script SQL para crear la base de datos con las tablas y los datos necesarios para probar la aplicación.
 
 ---
 
@@ -190,17 +203,19 @@ El repositorio incluye el script SQL necesario para crear la base de datos.
 git clone https://github.com/IHaruI/Sistema-Escolar.git
 ```
 
-2. Abrir la solución en **Visual Studio 2022**.
+2. Abrir la solución en **Visual Studio**.
 
-3. Restaurar la base de datos ejecutando el archivo:
+3. Abrir **SQL Server Management Studio**.
+
+4. Ejecutar el archivo:
 
 ```
 2do_Parcial_Scripts.sql
 ```
 
-4. Configurar la cadena de conexión a SQL Server si fuese necesario.
+5. Si es necesario, modificar la cadena de conexión a SQL Server.
 
-5. Ejecutar el proyecto.
+6. Ejecutar el proyecto.
 
 ---
 
@@ -222,7 +237,7 @@ Sistema-Escolar
 
 # 🎯 Objetivos del proyecto
 
-Este proyecto fue desarrollado con el objetivo de aplicar conocimientos sobre:
+Este proyecto fue desarrollado para poner en práctica conocimientos sobre:
 
 - Programación Orientada a Objetos.
 - Arquitectura en capas.
@@ -236,4 +251,4 @@ Este proyecto fue desarrollado con el objetivo de aplicar conocimientos sobre:
 
 # 📄 Licencia
 
-Proyecto desarrollado con fines académicos.
+Proyecto desarrollado con fines educativos y de aprendizaje.
