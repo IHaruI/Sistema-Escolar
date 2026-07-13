@@ -70,3 +70,15 @@ C:\Users\patri\Desktop\Sistema-Escolar\Sistema-Escolar\Biblioteca\obj\Debug\net5
 C:\Users\patri\Desktop\Sistema-Escolar\Sistema-Escolar\Biblioteca\obj\Debug\net5.0\refint\Biblioteca.dll
 C:\Users\patri\Desktop\Sistema-Escolar\Sistema-Escolar\Biblioteca\obj\Debug\net5.0\Biblioteca.pdb
 C:\Users\patri\Desktop\Sistema-Escolar\Sistema-Escolar\Biblioteca\obj\Debug\net5.0\ref\Biblioteca.dll
+C:\Users\patri\Desktop\Sistema-Escolar\Biblioteca\bin\Debug\net5.0\Biblioteca.deps.json
+C:\Users\patri\Desktop\Sistema-Escolar\Biblioteca\bin\Debug\net5.0\Biblioteca.dll
+C:\Users\patri\Desktop\Sistema-Escolar\Biblioteca\bin\Debug\net5.0\Biblioteca.pdb
+C:\Users\patri\Desktop\Sistema-Escolar\Biblioteca\obj\Debug\net5.0\Biblioteca.csproj.AssemblyReference.cache
+C:\Users\patri\Desktop\Sistema-Escolar\Biblioteca\obj\Debug\net5.0\Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\patri\Desktop\Sistema-Escolar\Biblioteca\obj\Debug\net5.0\Biblioteca.AssemblyInfoInputs.cache
+C:\Users\patri\Desktop\Sistema-Escolar\Biblioteca\obj\Debug\net5.0\Biblioteca.AssemblyInfo.cs
+C:\Users\patri\Desktop\Sistema-Escolar\Biblioteca\obj\Debug\net5.0\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\patri\Desktop\Sistema-Escolar\Biblioteca\obj\Debug\net5.0\Biblioteca.dll
+C:\Users\patri\Desktop\Sistema-Escolar\Biblioteca\obj\Debug\net5.0\refint\Biblioteca.dll
+C:\Users\patri\Desktop\Sistema-Escolar\Biblioteca\obj\Debug\net5.0\Biblioteca.pdb
+C:\Users\patri\Desktop\Sistema-Escolar\Biblioteca\obj\Debug\net5.0\ref\Biblioteca.dll
